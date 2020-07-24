@@ -17,10 +17,17 @@
 <table>
   <tr>
     <td>
+      <img alt="Dashboard" src="https://github.com/gianferreira/goRestaurant-frontend/blob/master/readme-dashboard.png" width="1000px"/>
     </td>
   </tr>
   <tr>
     <td>
+      <img alt="New" src="https://github.com/gianferreira/goRestaurant-frontend/blob/master/readme-new.png" width="1000px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Available" src="https://github.com/gianferreira/goRestaurant-frontend/blob/master/readme-available.png" width="1000px"/>
     </td>
   </tr>
 </table>
