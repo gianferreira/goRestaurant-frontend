@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="GoRestaurants" src="https://github.com/gianferreira/goRestaurant-frontend/blob/master/readme-logo.png" width="220px"/>
+  <img alt="GoRestaurants" src="https://github.com/gianferreira/goRestaurant-frontend/blob/master/readme-logo.png" height="85px"/>
 </h3>
 
 <h1 align="center">
@@ -81,8 +81,8 @@ yarn start
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o
+  Este projeto foi desenvolvido durante o
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
